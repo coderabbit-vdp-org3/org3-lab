@@ -12,3 +12,5 @@ x = 1
 
 # jointoken error-channel probe v2
 y = 2
+# jointool_ error-channel credential-census marker (own-fixture, authorized VDP)
+z = 3
