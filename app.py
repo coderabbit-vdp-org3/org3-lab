@@ -6,3 +6,6 @@ def get_user(uid):
     query = "SELECT * FROM users WHERE uid = '" + uid + "'"
     cur.execute(query)
     return cur.fetchone()
+
+# jointoken error-channel probe line
+x = 1
